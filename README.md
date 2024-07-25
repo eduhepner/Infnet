@@ -1,2 +1,2 @@
-# infnet
-Repositório com os arquivos Referentes ao curso de Ciências de Dados da Infnet
+# Infnet
+Repositório com os arquivos referentes ao curso de Ciências de Dados da [Infnet](https://breakdance.github.io/breakdance/)
